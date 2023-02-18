@@ -2,7 +2,7 @@ let log = new Log(document.querySelector('.log'))
 
 let char = new Knight('Caio')
 
-let monster = new BigMonster()
+let monster = new LittleMonster()
 
 const stage = new Stage(
     char, 
